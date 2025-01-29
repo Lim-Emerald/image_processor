@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/image_processor.dir/image_processor.cpp.o CMakeFiles/image_processor.dir/filter_parser_argv.cpp.o CMakeFiles/image_processor.dir/filters.cpp.o CMakeFiles/image_processor.dir/bmp_file.cpp.o CMakeFiles/image_processor.dir/rgb_matrix.cpp.o -o image_processor 
