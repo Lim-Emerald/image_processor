@@ -1,0 +1,3 @@
+/media/lim/Data_D/HSE/proj/image_processor/build/CMakeFiles/image_processor.dir
+/media/lim/Data_D/HSE/proj/image_processor/build/CMakeFiles/edit_cache.dir
+/media/lim/Data_D/HSE/proj/image_processor/build/CMakeFiles/rebuild_cache.dir
